@@ -6,3 +6,4 @@ grade = input("학년을 입력하세요: ")
 
 print("\n<출력>")
 print(f'이름: {name}\n학번: {number}\n학과: {department}\n학교: {school}\n학년: {grade}')
+
